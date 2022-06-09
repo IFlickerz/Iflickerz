@@ -32,9 +32,9 @@
 <br>
 <div align="center">
 <a href="https://github.com/IFlickerz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IFlickerz&theme=dark&show_icons=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IFlickerz&theme=radical&show_icons=true">
 </a>
 <a href="https://github.com/IFlickerz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IFlickerz&layout=compact&theme=dark&show_icons=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IFlickerz&layout=compact&theme=radical&show_icons=true">
 </a>
 </div>
