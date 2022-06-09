@@ -11,7 +11,7 @@
 <a href="mailto:nicolasmossmannbusiness@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white"></a>
 </div>
 
-<h2 style="vertical-align:bottom"><img src="https://static.wixstatic.com/media/c7c1c2_2b2bbdf0e4df4d2f9a3462aff17207fa~mv2.gif" width="35px" height="35px"/> Technologies & Tools</h2>
+<h2><img style="vertical-align:middle" src="https://static.wixstatic.com/media/c7c1c2_2b2bbdf0e4df4d2f9a3462aff17207fa~mv2.gif" width="35px" height="35px"/> Technologies & Tools</h2>
 
 ![](https://img.shields.io/badge/Code-SAP%20ABAP-informational?style=flat&logo=sap&logoColor=white&color=f91362)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=f91362)
