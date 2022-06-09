@@ -30,9 +30,11 @@
 
 ## <img src="https://praticaclinica.com.br/anexos/z_extras/cubo-saude40/img/data.gif" width="25px" height="25px"/> GitHub Stats
 <br>
+<div align="center">
 <a href="https://github.com/IFlickerz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IFlickerz&theme=dark&show_icons=true">
 </a>
 <a href="https://github.com/IFlickerz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IFlickerz&layout=compact&theme=dark&show_icons=true">
 </a>
+</div>
