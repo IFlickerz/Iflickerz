@@ -27,5 +27,9 @@
 ![](https://img.shields.io/badge/Tools-React-informational?style=flat&logo=react&logoColor=white&color=f91362)
 
 <br>
+
 ## <img src="https://praticaclinica.com.br/anexos/z_extras/cubo-saude40/img/data.gif" width="25px" height="25px"/> GitHub Stats
 <br>
+<a href="https://github.com/IFlickerz">
+  <img src="https://github-readme-stats.vercel.app/api?username=IFlickerz&theme=dark&show_icons=true">
+</a>
