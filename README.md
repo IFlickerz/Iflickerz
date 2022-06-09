@@ -33,3 +33,6 @@
 <a href="https://github.com/IFlickerz">
   <img src="https://github-readme-stats.vercel.app/api?username=IFlickerz&theme=dark&show_icons=true">
 </a>
+<a href="https://github.com/IFlickerz">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IFlickerz&layout=compact&theme=dark&show_icons=true">
+</a>
