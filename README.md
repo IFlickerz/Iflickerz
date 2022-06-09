@@ -11,6 +11,7 @@
 </div>
 
 ## <img src="https://static.wixstatic.com/media/c7c1c2_2b2bbdf0e4df4d2f9a3462aff17207fa~mv2.gif" width="35px" height="35px"/> Technologies & Tools
+<div align="center">
 ![](https://img.shields.io/badge/Code-SAP%20ABAP-informational?style=flat&logo=sap&logoColor=white&color=f91362)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=f91362)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=f91362)
@@ -20,3 +21,4 @@
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&logoColor=white&color=f91362)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=f91362)
 ![](https://img.shields.io/badge/Tools-React-informational?style=flat&logo=react&logoColor=white&color=f91362)
+</div>
