@@ -26,6 +26,6 @@
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=f91362)
 ![](https://img.shields.io/badge/Tools-React-informational?style=flat&logo=react&logoColor=white&color=f91362)
 
-
+<br>
 ## <img src="https://praticaclinica.com.br/anexos/z_extras/cubo-saude40/img/data.gif" width="25px" height="25px"/> GitHub Stats
 <br>
