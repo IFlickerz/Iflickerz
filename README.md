@@ -6,6 +6,10 @@
 <p align="center">My name is Nicolas Mossmann, also known as Flickerz, and I'm a software developer. I'm from Brazil and currently just studying.</p>
 <br>
 
+📚 **Reading:** *Artificial Intelligence: A Modern Approach*
+
+🔎 **Studying:** *Java & Python*
+
 <div align="center">
 <a href="https://www.instagram.com/nicolasm_l"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/nicolas-mossmann-lemos-271b25175"><img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
