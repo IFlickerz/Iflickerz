@@ -3,7 +3,7 @@
 # Welcome, buddy! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"/>
 
 <br>
-<p align="center">My name is Nicolas Mossmann, also known as Flickerz, and I'm a software developer. I'm from Brazil and currently just studying.</p>
+<p align="center">My name is Nicolas Mossmann, also known as Flickerz, and I am a software developer. I'm from Brazil and I'm currently studying computer science at Unisinos and some other stuff on my own.</p>
 <br>
 <br>
 
