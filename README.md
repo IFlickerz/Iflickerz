@@ -7,9 +7,7 @@
 <br>
 <br>
 
-📚 **Reading:** *Artificial Intelligence: A Modern Approach*
-
-🔎 **Studying:** *Java & Python*
+🔎 **Studying:** *SAP ABAP*
 
 <br>
 <br>
