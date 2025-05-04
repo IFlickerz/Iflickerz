@@ -1,13 +1,11 @@
 [![Header](https://github.com/IFlickerz/Iflickerz/blob/main/Flickerz%20graffiti.png?raw=true)](https://iflickerz.github.io/Portfolio/)
 
-<br>
-
 # Hey there! Glad to have you here <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px" height="25px"/>
 
 <br><br>
 <p align="center">
   👋 Hi, I'm <strong>Nicolas M. Lemos</strong> — aka <em>Flickerz</em><br><br><br><br>
-  I'm a software developer from Brazil specializing in the <strong>SAP ecosystem</strong>, working with <strong>ABAP</strong> and <strong>SAP Fiori</strong> to build enterprise-grade solutions.<br><br>
+  I'm a software developer from Brazil with a focus on the <strong>SAP ecosystem</strong>, leveraging my expertise in <strong>ABAP</strong> and <strong>SAP Fiori</strong> to create robust and efficient, enterprise-level solutions.<br><br>
   I'm currently pursuing a degree in Computer Science at Unisinos and complementing my education with some self-taught studies in <strong>quantum computing</strong>, <strong>AI development</strong>, and other <strong>emerging technologies</strong>.<br><br>
   I’m passionate about clean code, performance, and creating tools that make a real impact.<br><br><br><br>
   📚 Always learning &nbsp;&nbsp;|&nbsp;&nbsp; 💡 Always building &nbsp;&nbsp;|&nbsp;&nbsp; 🚀 Always improving
