@@ -33,23 +33,17 @@
 <br>
 
 <div align="center">
-  <table style="border: none; border-collapse: separate;">
-    <tr>
-      <td style="border: none;"><img src="https://img.shields.io/badge/Code-SAP%20ABAP-informational?style=flat&logo=sap&logoColor=white&color=f91362" style="margin: 10px;"></td>
-      <td style="border: none;"><img src="https://img.shields.io/badge/Code-SAP%20Fiori-informational?style=flat&logo=sap&logoColor=white&color=f91362" style="margin: 10px;"></td>
-      <td style="border: none;"><img src="https://img.shields.io/badge/Tools-SAPUI5-informational?style=flat&logo=sap&logoColor=white&color=f91362" style="margin: 10px;"></td>
-    </tr>
-    <tr>
-      <td style="border: none;"><img src="https://img.shields.io/badge/Code-Java-informational?style=flat&logo=eclipseide&logoColor=white&color=f91362" style="margin: 10px;"></td>
-      <td style="border: none;"><img src="https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=f91362" style="margin: 10px;"></td>
-      <td style="border: none;"><img src="https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=f91362" style="margin: 10px;"></td>
-    </tr>
-    <tr>
-      <td style="border: none;"><img src="https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=f91362" style="margin: 10px;"></td>
-      <td style="border: none;"><img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=f91362" style="margin: 10px;"></td>
-      <td style="border: none;"><img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=f91362" style="margin: 10px;"></td>
-    </tr>
-  </table>
+  
+![](https://img.shields.io/badge/Code-SAP%20ABAP-informational?style=flat&logo=sap&logoColor=white&color=f91362)
+![](https://img.shields.io/badge/Code-SAP%20Fiori-informational?style=flat&logo=sap&logoColor=white&color=f91362)
+![](https://img.shields.io/badge/Tools-SAPUI5-informational?style=flat&logo=sap&logoColor=white&color=f91362)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=eclipseide&logoColor=white&color=f91362)
+![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=f91362)
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=f91362)
+![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=f91362)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=f91362)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=f91362)
+
 </div>
 
 <br>
