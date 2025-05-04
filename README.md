@@ -33,8 +33,8 @@
 <div align="center">
   
 ![](https://img.shields.io/badge/Code-SAP%20ABAP-informational?style=flat&logo=sap&logoColor=white&color=f91362)
-![](https://img.shields.io/badge/Code-SAP%20Fiori-informational?style=flat&logo=sap&logoColor=white&color=f91362)
-![](https://img.shields.io/badge/Tools-SAPUI5-informational?style=flat&logo=sap&logoColor=white&color=f91362)
+![](https://img.shields.io/badge/Tools-SAP%20Fiori-informational?style=flat&logo=sap&logoColor=white&color=f91362)
+![](https://img.shields.io/badge/Code-SAPUI5-informational?style=flat&logo=sap&logoColor=white&color=f91362)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=eclipseide&logoColor=white&color=f91362)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=f91362)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=f91362)
